@@ -39,7 +39,7 @@ I've built with Claude since late 2024, not just chatted with it: agents with lo
 
 ## 🧰 Stack
 
-**Backend:** PHP · Laravel · Node.js · NestJS · Go
+**Backend:** PHP · Laravel · Node.js · NestJS · Go · Java + Spring Boot (new features on 3 microservices consuming Kafka streams)
 **Frontend:** Vue.js · React · Angular · TypeScript
 **AI:** Claude (Anthropic API, agents, skills, tool calling) · LLM integration · RAG with pgvector and local models on Ollama (in progress)
 **Data:** PostgreSQL (pgvector, row-level security) · MySQL · MongoDB · DynamoDB · Redis · SQLite
